@@ -1,59 +1,62 @@
 # 👋 Hi, I'm Vincent Jularbal
 
-Welcome to my GitHub! I'm an IT Specialist and Accounts Management Professional with over 9 years of experience in corporate IT operations and government service. My focus is on delivering practical, results-oriented solutions using software development and web technologies. I'm passionate about building systems that improve efficiency, support end-users, and solve real-world problems.
+I'm an IT Specialist and Accounts Management Professional with a passion for solving real-world problems through software and web development. With over 9 years of experience in both the public and private sectors, I specialize in system deployment, accounts strategy, and developing digital tools that improve operational efficiency.
+
+🎓 **Education:**  
+- Web & Computer Programming, Brigham Young University–Idaho  
+- PathwayConnect Certificate, BYU–Pathway Worldwide  
+
+📍 **Location:** Ormoc City, Leyte, Philippines  
+💼 **Current Role:** Accounts Information Management at PhilHealth  
+💬 **Interests:** Full-stack development, IT systems, digital solutions for public service
 
 ---
 
-## 💼 About Me
+## 💻 Skills & Technologies
 
-- 📍 Based in Ormoc City, Leyte, Philippines  
-- 🧠 Lifelong learner, currently strengthening my skills in full-stack development  
-- 🤝 Open to collaboration on meaningful tech and community-driven projects  
+### 🔧 Programming & Web
+- Java • Python • SQL • Visual Basic  
+- PHP • HTML • CSS • MySQL  
 
----
+### 🖥️ IT & Network
+- PC Hardware/Software Troubleshooting  
+- Corporate IT Systems Deployment  
+- Network Setup & Management  
 
-## 🛠 Skills & Technologies
-
-### Software & Web Development
-- **Languages:** Java, Python, SQL, Visual Basic  
-- **Web Technologies:** PHP, MySQL, HTML, CSS  
-- **Tools & Concepts:** Software Development, Frontend/Backend Web Dev, Dynamic Page Design, Industry Best Practices
-
-### IT & Systems Support
-- Corporate IT Infrastructure  
-- PC Hardware, Software, and Network Troubleshooting  
-- Network Deployment & Maintenance  
-- IT Asset & Risk Management  
-
-### Accounts Management & Client Services
-- Key Accounts Strategy  
-- Compliance Audits  
+### 🧾 Accounts & Operations
+- Key Account Management  
+- Compliance Auditing  
+- Report Automation  
 - Virtual Information Dissemination  
-- Data Analysis & Reporting  
 
 ---
 
-## 📂 Experience & Projects
+## 🚀 Projects & Work Highlights
 
-### 🇵🇭 Philippine Health Insurance Corporation (PhilHealth) – *June 2018 – Present*
-**Role:** Accounts Information Management  
-- Manage key accounts, sustaining top collection performance  
-- Develop collection strategies, increasing compliance by 70%  
-- Conduct audits with 92% collection efficiency  
-- Lead virtual forums reaching 97% of stakeholders  
-- Implement online assistant app, cutting report time by 20%
+### 📌 [IT Asset Monitoring System (Company Use)]()
+- Created a tracking system that sped up IT asset inventory by 20%
 
-### 🌐 Biliran Geothermal Inc. / Orka Energy – *Oct 2014 – Mar 2016*
-**Role:** IT Officer  
-- Deployed IT systems, increasing productivity by 25%  
-- Wrote SOPs and risk plans, achieving zero data leaks  
-- Managed IT budgeting and procurement, reducing costs by 15%  
-- Developed asset tracking, speeding up inventory by 20%  
-- Led connectivity projects for multiple sites
+### 📌 [Network Deployment Projects (Biliran Geothermal Inc.)]()
+- Led network setup for two project sites, enabling secure multi-point connectivity
+
+> 🔗 *More public repositories coming soon as I convert internal tools into open-source versions.*
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats
 
-- **Email:** vincent.jularbal@yahoo.com  
-- **LinkedIn:** [linkedin.com/in/vincejularbal](https://www.linkedin.com/in/vincejularbal)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vincejularbal&show_icons=true&theme=default" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vincejularbal" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincejularbal&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- 📧 **Email:** [vincent.jularbal@yahoo.com](mailto:vincent.jularbal@yahoo.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/vincejularbal](https://www.linkedin.com/in/vincejularbal)
+
